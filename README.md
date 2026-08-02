@@ -1,2 +1,2 @@
-# Nova-cr-dit-
+# Nova-credit
 Préstamos personales
